@@ -41,7 +41,10 @@ Last it will save all the processed orders to a table which can be accessed via 
 
 
 
-
+Added:
+Additional code to cancel orders that have not been paid after a set time limit. First the transaction attached to the order will be
+voided, then the order will be canceled with the declined payment option. If you do not want this feature, download the original 
+database.
 
 
 
