@@ -4,7 +4,7 @@ A solution for those who have begun accepting XRP via their Shopify website and 
 as the destination tag in order to match orders to payments.
 
 This database will match destination tag from the XRP wallet to the order number in Shopify and then update order details.
-
+If you do not have Microsoft Access you should still be able to run this process with the Microsoft Access Runtime from Microsoft
 
 Quick Overview:
 
